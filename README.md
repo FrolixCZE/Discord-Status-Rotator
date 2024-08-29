@@ -20,5 +20,4 @@ statuses:
 
 interval: 1 # The interval between changing the status (In seconds)
 
-## MADE BY WAKURA / FROLIX
-## https://dsc.gg/rezont00ls
+## MADE BY FROLIX
