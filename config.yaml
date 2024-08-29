@@ -2,9 +2,8 @@ discord_token: "YOUR DISCORD TOKEN HERE"
 statuses:
   - "DISCORD STATUS ROTATOR"
   - "BY WAKURA"
-  - "GET NOW > https://dsc.gg/rezont00ls"
+  - "GET NOW > https://github.com/FrolixCZE"
 
 interval: 1 # The interval between changing the status (In seconds)
 
-## MADE BY WAKURA. / FROLIX
-## https://dsc.gg/rezont00ls
+## MADE BY FROLIX
