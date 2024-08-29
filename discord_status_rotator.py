@@ -31,7 +31,7 @@ def change_status(status_text):
         print(f"Failed to change status. Response: {response.status_code}, Error: {response.text} | https://dsc.gg/rezont00ls")
     time.sleep(interval)
 
-print("Discord Status Rotator by Wakura. https://dsc.gg/rezont00ls")
+print("Discord Status Rotator by Frolix. https://github.com/FrolixCZE")
 print("")
 
 while True:
@@ -42,7 +42,6 @@ while True:
     statuses = config['statuses']
     interval = config.get('interval', 3)  # Default to 3 seconds if not set
     url = "https://discord.com/api/v9/users/@me/settings"
-    url_to_append = "https://dsc.gg/rezont00ls"
 
     headers = {
         "Authorization": DISCORD_TOKEN,
